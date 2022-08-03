@@ -1,0 +1,1 @@
+export const COIN_STATS_API = 'https://api.coinstats.app/public/v1';
